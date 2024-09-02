@@ -1,0 +1,56 @@
+.navtext
+{
+  display: flex;
+}
+#navbilde img
+{
+    margin-left: 80px;
+    margin-bottom: 0%;
+    width:50px;
+    height: auto;
+}
+#navimg img
+ul {    list-style-type: none;
+    margin-left: 150;
+    padding: 0;
+    overflow: hidden;
+    background-color: #38444d;
+}
+li {
+    float: left;
+  }
+  li a, .dropbtn {
+    display: inline-block;
+    color: rgb(142, 8, 8);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  li a:hover, .dropdown:hover .dropbtn {
+    background-color: rgb(0, 3, 194);
+  }
+  li.dropdown {
+    display: inline-block;
+  }
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 150px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    
+  }
+{
+    background-color: whitesmoke;
+}
+div
+{
+}
